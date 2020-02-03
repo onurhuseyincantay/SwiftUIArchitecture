@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Hover",
+        "repositoryURL": "https://github.com/onurhuseyincantay/Hover",
+        "state": {
+          "branch": null,
+          "revision": "16bd6d3bc719e5cc02be176683820573ebb0e47f",
+          "version": "1.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
